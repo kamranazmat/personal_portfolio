@@ -1,4 +1,3 @@
-
 <div class="container" style="height: 60%; width: 75%"> 
 	<div class="row" align="right" style="padding-left: 20px">
 		</br>
@@ -29,7 +28,7 @@
                     <center>
                       <img src="images/lattice.jpg" class="img-rounded" height="165" width="230">
                       </br></br>
-                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I am an undergraduate student here, in Kolkata. A beautiful fast-paced city which has as many opportunities as many you can explore. I will be graduating with a B.Tech. degree in June'16.</h5>
+                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I joined Lattice Innovations as a Intern. I worked on the front-end related issues on their project. A startup where I would like to work again.</h5>
                     </center>
                 </div>
     			<div class="bhoechie-tab-content">
@@ -48,13 +47,14 @@
                 </div>
                 <div class="bhoechie-tab-content">
                     <center>
-                      <img src="images/ksms.jpg" class="img-rounded" height="185" width="230">
+                      <img src="images/ksms.jpeg" class="img-rounded" height="195" width="230">
                       </br></br>
                       <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >This is the place where my foundation was established. A school in my home-town, Jamshedpur, Jharkhand.</h5>
                     </center>
                 </div>
             </div>
         </div>
+        
        </br>
       </div> 
   </div>

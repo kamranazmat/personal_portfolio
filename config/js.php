@@ -35,6 +35,7 @@
 	        $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
 	    });
 	});
+	
 </script>
 
 <!-- Angular Control -->

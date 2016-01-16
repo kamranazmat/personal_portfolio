@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <!-- DataTable -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="bootstrap.vertical-tabs.css">
 
 <!-- Other Styles -->
 <style>
@@ -56,8 +57,6 @@
 	    float: right;
 	}
 	.verticalLine {    border-left: thick solid #ff0000;}
-	
-	
 	
 	
 	/*  bhoechie tab */

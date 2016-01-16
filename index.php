@@ -92,9 +92,7 @@
 			</div>
 		</div>
 		<div id="pro">
-			<div class="col-md-6" id="name" style="font-size: 65px; color: white; font: bold; padding-top: 200px;" align="center">
-			  	<div class="col-sm-12" style="font-family: Courier">Hi, I am Kamran Azmat</div>
-	        </div>
+			<?php include('template/project.php'); ?>	
 		</div>
 		<div id="abo">
 			<?php include('template/about.php'); ?>			
