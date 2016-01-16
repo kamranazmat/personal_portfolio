@@ -11,16 +11,10 @@
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
 <!-- FontAwesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<!-- DataTable -->
-<link rel="stylesheet" href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css">
-<!-- 
-<link rel="stylesheet" type="text/css" href="config/css/normalize.css" />
-<link rel="stylesheet" type="text/css" href="config/css/demo.css" />
-<link rel="stylesheet" type="text/css" href="config/css/component.css" />
--->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <!-- Other Styles -->
+
 <style>
 	html {
 	  position: relative;
@@ -38,17 +32,7 @@
 	  height: 60px;
 	  background-color: #f5f5f5;
 	}
-	#btn_debug {
-	}
-	#console_debug {
-	}
-	#console_debug pre {
-	}
-	#logo img {
-    	width: 99.5%;
-    	height: 15%;
-    	border: 1px solid black;
-	}
+	
 	.col1 {
 	    background-color: #ddf;
 	    float: left;

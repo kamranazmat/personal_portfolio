@@ -20,9 +20,6 @@
 <script src="http://vsn4ik.github.io/bootstrap-checkbox/dist/js/bootstrap-checkbox.min.js" defer></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.0.3/ui-bootstrap.min.js"></script>
-<!-- <script src="template/classie.js"></script>
-<script src="template/snap.svg-min.js"></script>
-<script src="template/svgLoader.js"></script> -->
 <script>
 	$(document).ready(function() {
 	    $('#example').DataTable();

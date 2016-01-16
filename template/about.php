@@ -28,14 +28,14 @@
                     <center>
                       <img src="images/lattice.jpg" class="img-rounded" height="165" width="230">
                       </br></br>
-                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I joined Lattice Innovations as a Intern. I worked on the front-end related issues on their project. A startup where I would like to work again.</h5>
+                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I joined Lattice Innovations as an Intern. I worked on the front-end related issues on their project. A startup where I would like to work again.</h5>
                     </center>
                 </div>
     			<div class="bhoechie-tab-content">
                     <center>
                       <img src="images/tata.jpg" class="img-rounded" height="185" width="230">
                       </br></br>
-                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I am an undergraduate student here, in Kolkata. A beautiful fast-paced city which has as many opportunities as many you can explore. I will be graduating with a B.Tech. degree in June'16.</h5>
+                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I did my Summer Internship here. My project was on creating multiple file upload control using ASP.NET </h5>
                     </center>
                 </div>
                 <div class="bhoechie-tab-content">
