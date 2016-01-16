@@ -1,13 +1,13 @@
 
-<div class="container"> 
-	<div class="row" align="right" style="padding-left: 80px">
+<div class="container" style="height: 60%; width: 75%"> 
+	<div class="row" align="right" style="padding-left: 20px">
 		</br>
-		<div class="col-md-3"></div>
-	  	<div class="col-md-8" style="font-family: Courier; font-size: 20px; color: white; font: bold; text-align: left">
-	  		&nbsp;&nbsp;&nbsp;&nbsp;I've worked/studied at these places...			  		
+		<div class="col-md-2"></div>
+	  	<div class="col-md-10" style="font-family: Courier; font-size: 20px; color: white; font: bold; text-align: left">
+	  		&nbsp;&nbsp;&nbsp;I've worked/studied at these places....			  		
 	  	</div>
-	    <div class="col-lg-2"></div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-9 bhoechie-tab-container" align="left">
+	    <div class="col-lg-1"></div>
+        <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 bhoechie-tab-container" align="left">
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-4 bhoechie-tab-menu">
               <div class="list-group">
                 <a href="#" class="list-group-item active text-center">
