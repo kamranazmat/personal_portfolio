@@ -50,6 +50,7 @@
 			
 	</head>
 	<body style="background-color: #0089e6;">
+		<div id="pagewrap" class="pagewrap">
 		<nav class="navbar navbar-default">
 		  <div class="container-fluid">
 		    <div class="navbar-header">
@@ -73,7 +74,10 @@
 		    </div>
 		  </div>
 		</nav>
-		
+		<!-- <div class="column">
+			<p>To start the page loading animation, click the following link:</p>
+			<p><a class="pageload-link" href="#page-2">Show Page Loader</a></p>
+		</div> -->
 		
 		<div id="ho" class="container-fluid">
 			<div class="row" align="center" style="padding-top: 20px;">
@@ -97,6 +101,7 @@
 		<div id="abo">
 			<?php include('template/about.php'); ?>			
 		</div>
+	</div>
 	</body>
 	<?php include('template/footer.php'); ?>
 </html>
