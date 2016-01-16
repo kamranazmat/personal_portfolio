@@ -83,7 +83,7 @@
 			  <div class="col-md-6" id="name" style="font-size: 65px; color: white; font: bold; padding-top: 200px;" align="center">
 			  	<div class="col-md-12" style="font-family: Courier;">Hi, I am Kamran</div>
 			  	<div class="col-md-1"></div>
-			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier; height: 50%; width: 70%" align="center">
+			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier; height: 60%; width: 80%" align="center">
 				  	<p align="justify">I'm an undergraduate studying at West Bengal University of Technology, Kolkata, West Bengal - WBUT. I expect to graduate with a Bachelors degree in June 2016.</p>
 				</div>
 			  </div>		  
