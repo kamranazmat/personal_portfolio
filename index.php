@@ -77,13 +77,13 @@
 		
 		<div id="ho" class="container-fluid">
 			<div class="row" align="center" style="padding-top: 20px;">
-			  <div class="col-md-6 col-sm-3" align="center" id="zoom_img" style="padding-top: 30px;">
+			  <div class="col-md-6" align="center" id="zoom_img" style="padding-top: 30px;">
 			  	<img src="images/kamran.jpg" class="img-circle" width="60%" height="60%" style="box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);">
 			  </div>
 			  <div class="col-md-6" id="name" style="font-size: 65px; color: white; font: bold; padding-top: 200px;" align="center">
 			  	<div class="col-md-12" style="font-family: Courier;">Hi, I am Kamran</div>
 			  	<div class="col-md-1"></div>
-			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier;" align="center">
+			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier; height: 50%; width: 70%" align="center">
 				  	<p align="justify">I'm an undergraduate studying at West Bengal University of Technology, Kolkata, West Bengal - WBUT. I expect to graduate with a Bachelors degree in June 2016.</p>
 				</div>
 			  </div>		  
@@ -93,7 +93,7 @@
 		</div>
 		<div id="pro">
 			<div class="col-md-6" id="name" style="font-size: 65px; color: white; font: bold; padding-top: 350px;" align="center">
-			  	<div class="col-sm-12" style="font-family: Courier">Hi, I am Kamran</div>
+			  	<div class="col-sm-12" style="font-family: Courier">Hi, I am Kamran Azmat</div>
 	        </div>
 		</div>
 		<div id="abo">
