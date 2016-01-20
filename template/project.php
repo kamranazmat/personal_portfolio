@@ -8,7 +8,8 @@
 <div class="container" style="height: 68%; width: 90%">
   <div class="row" align="right" style="padding-left: 20px">
   	</br>
-  	<div class="col-md-2"></div>
+  	
+  	<div class="col-md-3"></div>
   	<div class="col-md-8" style="font-family: Courier; font-size: 20px; color: white; font: bold; text-align: left">
   		My projects....
   	</div></br></br>

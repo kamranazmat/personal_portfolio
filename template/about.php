@@ -35,7 +35,8 @@
                     <center>
                       <img src="images/tata.jpg" class="img-rounded" height="185" width="230">
                       </br></br>
-                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I did my Summer Internship here. My project was on creating multiple file upload control using ASP.NET </h5>
+                      <h5 style="margin-top: 0;color: black; font-family: Courier;" align="middle"; >I did my Summer Internship here. Our group project was on creating multiple file upload control using ASP.NET </h5>
+                      <a href="https://drive.google.com/file/d/0BzZayc0dQw-UNnVIRVJPVy1kZTA/view?usp=sharing" target="_blank">Demo</a>
                     </center>
                 </div>
                 <div class="bhoechie-tab-content">
