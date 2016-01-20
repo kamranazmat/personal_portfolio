@@ -20,14 +20,7 @@
 			}
 			
 		</style>
-		<style>			
-			#loading-image {
-			  position: absolute;
-			  top: 100px;
-			  left: 240px;
-			  z-index: 100;
-			}
-		</style>
+		
 		<script>
 			$(document).ready(function () {
 		        $('ul.nav > li').click(function (e) {
@@ -57,10 +50,7 @@
 					
 	</head>
 	<body style="background-color: #0089e6;">
-		<div class="col-md-4"></div>
-		<div class="col-md-6" id="loading">
-		  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
-		</div>		
+			
 		<div id="pagewrap" class="pagewrap">
 		<nav class="navbar navbar-default">
 		  <div class="container-fluid">
@@ -111,13 +101,6 @@
 		</div>
 		</div>	
 	</body>
-	<script language="javascript" type="text/javascript">
-      $(window).load(function() {
-      	 $('#loading').hide();
-	  });
-	  $(window).on('load', function() {
-		   $("#pagewrap").show();
-	  });
-	</script>
+	
 	<?php include('template/footer.php'); ?>
 </html>
