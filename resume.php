@@ -235,7 +235,7 @@
 		<span class="date r">July 2012 &mdash; Present</span>
 			</h3>
 			<span class="clear"> </span>
-			<span class="school">West Bengal University of Technology, Kolkata</span><span class="info">7th Semester, Information Technology with CGPA 7.61.</span><span class="clear"> </span>
+			<span class="school">West Bengal University of Technology, Kolkata</span><span class="info">8th Semester, Information Technology with CGPA 7.61.</span><span class="clear"> </span>
 		</div>
 		
 		<div class="item">
