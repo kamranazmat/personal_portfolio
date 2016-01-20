@@ -54,13 +54,13 @@
 			    });             
 		    });		    
 		</script>
-		<script language="javascript" type="text/javascript">
-		     $(window).load(function() {
-		     $('#loading').hide();
-		  });
-		</script>			
+					
 	</head>
-	<body style="background-color: #0089e6;">		
+	<body style="background-color: #0089e6;">
+		<div class="col-md-4"></div>
+		<div class="col-md-6" id="loading">
+		  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
+		</div>		
 		<div id="pagewrap" class="pagewrap">
 		<nav class="navbar navbar-default">
 		  <div class="container-fluid">
@@ -86,10 +86,7 @@
 		  </div>
 		</nav>
 		
-		<div class="col-md-4"></div>
-		<div class="col-md-6" id="loading">
-		  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
-		</div>
+		
 		<div id="ho" class="container-fluid">
 			<div class="row" align="center" style="padding-top: 20px;">
 			  <div class="col-md-6" align="center" id="zoom_img" style="padding-top: 30px;">
@@ -114,5 +111,13 @@
 		</div>
 		</div>	
 	</body>
+	<script language="javascript" type="text/javascript">
+      $(window).load(function() {
+      	 $('#loading').hide();
+	  });
+	  $(window).on('load', function() {
+		   $("#pagewrap").show();
+	  });
+	</script>
 	<?php include('template/footer.php'); ?>
 </html>
