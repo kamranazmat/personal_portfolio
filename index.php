@@ -20,8 +20,7 @@
 			}
 			
 		</style>
-		<style>
-			
+		<style>			
 			#loading-image {
 			  position: absolute;
 			  top: 100px;
@@ -53,10 +52,8 @@
 			        $("#pro").hide();
 			        $("#abo").show();
 			    });             
-		    });
-		    
-		</script>	
-			
+		    });		    
+		</script>			
 	</head>
 	<body style="background-color: #0089e6;">		
 		<div id="pagewrap" class="pagewrap">
@@ -83,10 +80,7 @@
 		    </div>
 		  </div>
 		</nav>
-		<!-- <div class="column">
-			<p>To start the page loading animation, click the following link:</p>
-			<p><a class="pageload-link" href="#page-2">Show Page Loader</a></p>
-		</div> -->
+		
 		<div class="col-md-4"></div>
 		<div class="col-md-6" id="loading">
 		  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
@@ -112,18 +106,8 @@
 		</div>
 		<div id="abo">
 			<?php include('template/about.php'); ?>
-			<!-- <div class="container">
-				<div class="col-md-3" align="left"><img src="images/left.png" style="height: 80px; width: 230px; float: left; size: auto"/></div>
-			    <div class="col-md-6"></div>
-			    <div class="col-md-3" align="right"><img src="images/right.png"  style="height: 80px; width: 230px; float: right; size: auto"/></div>
-			</div> -->			
 		</div>
-	</div>
-	<script language="javascript" type="text/javascript">
-	     $(window).load(function() {
-	     $('#loading').hide();
-	  });
-	</script>
+		</div>	
 	</body>
 	<?php include('template/footer.php'); ?>
 </html>
