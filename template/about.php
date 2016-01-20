@@ -61,3 +61,8 @@
       
       
   </div>
+ <div class="col-md-12"></br></div>
+  <div class="col-md-4"></div>
+  <div class="col-md-6" align="right" style="color: white">
+  	<a href="" style="color: white"><i class="fa fa-download fa-4x"></i></a>
+  </div>

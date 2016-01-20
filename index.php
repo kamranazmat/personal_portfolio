@@ -53,6 +53,11 @@
 			        $("#abo").show();
 			    });             
 		    });		    
+		</script>
+		<script language="javascript" type="text/javascript">
+		     $(window).load(function() {
+		     $('#loading').hide();
+		  });
 		</script>			
 	</head>
 	<body style="background-color: #0089e6;">		
@@ -102,7 +107,7 @@
 			</div>
 		</div>
 		<div id="pro">
-			<?php include('template/project.php'); ?>	
+			<?php include('template/projects.php'); ?>	
 		</div>
 		<div id="abo">
 			<?php include('template/about.php'); ?>
