@@ -20,6 +20,27 @@
 			}
 			
 		</style>
+		<style>
+			#loading {
+			   width: 100%;
+			   height: 100%;
+			   top: 0px;
+			   left: 0px;
+			   position: fixed;
+			   display: block;
+			   opacity: 0.7;
+			   background-color: #fff;
+			   z-index: 99;
+			   text-align: center;
+			}
+			
+			#loading-image {
+			  position: absolute;
+			  top: 100px;
+			  left: 240px;
+			  z-index: 100;
+			}
+		</style>
 		<script>
 			$(document).ready(function () {
 		        $('ul.nav > li').click(function (e) {
@@ -49,7 +70,7 @@
 		</script>	
 			
 	</head>
-	<body style="background-color: #0089e6;">
+	<body style="background-color: #0089e6;">		
 		<div id="pagewrap" class="pagewrap">
 		<nav class="navbar navbar-default">
 		  <div class="container-fluid">
@@ -78,7 +99,10 @@
 			<p>To start the page loading animation, click the following link:</p>
 			<p><a class="pageload-link" href="#page-2">Show Page Loader</a></p>
 		</div> -->
-		
+		<div class="col-md-4"></div>
+		<div class="col-md-6" id="loading">
+		  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
+		</div>
 		<div id="ho" class="container-fluid">
 			<div class="row" align="center" style="padding-top: 20px;">
 			  <div class="col-md-6" align="center" id="zoom_img" style="padding-top: 30px;">
@@ -99,9 +123,19 @@
 			<?php include('template/project.php'); ?>	
 		</div>
 		<div id="abo">
-			<?php include('template/about.php'); ?>			
+			<?php include('template/about.php'); ?>
+			<!-- <div class="container">
+				<div class="col-md-3" align="left"><img src="images/left.png" style="height: 80px; width: 230px; float: left; size: auto"/></div>
+			    <div class="col-md-6"></div>
+			    <div class="col-md-3" align="right"><img src="images/right.png"  style="height: 80px; width: 230px; float: right; size: auto"/></div>
+			</div> -->			
 		</div>
 	</div>
+	<script language="javascript" type="text/javascript">
+	     $(window).load(function() {
+	     $('#loading').hide();
+	  });
+	</script>
 	</body>
 	<?php include('template/footer.php'); ?>
 </html>

@@ -14,7 +14,20 @@
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <!-- Other Styles -->
-
+<style>
+	.carousel-indicators {
+	  bottom:-50px;
+	}
+	
+	.carousel-indicators li {
+	  border-color:#999;
+	  background-color:#ccc;
+	}
+	
+	.carousel-inner {
+	   margin-bottom:50px;
+	}
+</style>
 <style>
 	html {
 	  position: relative;
