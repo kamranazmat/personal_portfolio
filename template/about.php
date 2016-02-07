@@ -58,11 +58,4 @@
         
        </br>
       </div>
-      
-      
-  </div>
- <div class="col-md-12"></br></div>
-  <div class="col-md-4"></div>
-  <div class="col-md-4" align="right" style="color: white">
-  	<button class="btn btn-default" onclick="window.open('resume.php', '_blank');" style="font-family: Courier; color: #0089e6">Resume`</a></button>
-  </div>
+  </div> 
