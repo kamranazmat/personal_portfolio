@@ -50,7 +50,22 @@
 					
 	</head>
 	<body style="background-color: #0089e6;">
-			
+		<?php 
+			$handle = fopen("counter.txt", "r");
+			if(!$handle) {
+				echo "could not open the file" ;
+			} 
+			else {
+				$counter = (int ) fread($handle,20); 
+				fclose ($handle); 
+				$counter++;
+				$handle = fopen("counter.txt", "w" );
+				fwrite($handle,$counter);
+				fclose ($handle) ; 
+			}
+			echo "<script>console.log($counter)</script>"; 
+		?>
+	
 		<div id="pagewrap" class="pagewrap">
 		<nav class="navbar navbar-default">
 		  <div class="container-fluid">
