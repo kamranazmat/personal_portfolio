@@ -13,7 +13,8 @@
 				&nbsp;
 				<a href="mailto:azmat.kamran@gmail.com" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 			</div>
-			<div class="col-md-9 col-sm-8" align="center" style="display: inline-block"><label>&copy; &nbsp;Kamran Azmat&nbsp;2016</label>&nbsp;|&nbsp;<a href="http://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a></div>
+			<div class="col-md-6 col-sm-8" align="center" style="display: inline-block"><label>&copy; &nbsp;Kamran Azmat&nbsp;2016</label>&nbsp;|&nbsp;<a href="http://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a></div>
+			<div class="col-md-3 col-sm-4" style="color: blue;">The website will be updated soon.</div>
 		</div> 
 	</div>
 </footer> <!--end footer-->
