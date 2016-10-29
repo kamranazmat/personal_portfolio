@@ -96,7 +96,7 @@
 			  	<div class="col-md-12" style="font-family: Courier;">Hi, I am Kamran</div>
 			  	<div class="col-md-1"></div>
 			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier; height: 60%; width: 80%" align="center">
-				  	<p align="justify">I'm an undergraduate studying at West Bengal University of Technology, Kolkata, West Bengal - WBUT. I expect to graduate with a Bachelors degree in June 2016.</p>
+				  	<p align="justify">I am currently pursuing Master’s degree in Computer Science at University College Dublin, Ireland with specialization in Data Science. I am expecting to graduate with a 2.1 degree in September 2017.</p>
 				  	<button class="btn btn-default" onClick="window.open('kamranazmatCV.pdf');">Curriculum Vitae</button>
 				</div>
 			  </div>		  
