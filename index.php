@@ -97,7 +97,7 @@
 			  	<div class="col-md-1"></div>
 			  	<div class="col-md-10" id="name" style="font-size: 18px; color: white; font: bold; font-family: Courier; height: 60%; width: 80%" align="center">
 				  	<p align="justify">I'm an undergraduate studying at West Bengal University of Technology, Kolkata, West Bengal - WBUT. I expect to graduate with a Bachelors degree in June 2016.</p>
-				  	<button class="btn btn-default" onClick="window.open('kamranazmat.pdf');">Curriculum Vitae</button>
+				  	<button class="btn btn-default" onClick="window.open('kamranazmatCV.pdf');">Curriculum Vitae</button>
 				</div>
 			  </div>		  
 			  
